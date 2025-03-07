@@ -29,7 +29,7 @@ Watch the demo: [YouTube Link](https://youtu.be/FIpdoaEOKW4)
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/object-tracking.git
+   git clone https://github.com/polinamenshikova/ProdVision.git
    ```
 2. Install dependencies:
    ```sh
@@ -37,7 +37,7 @@ Watch the demo: [YouTube Link](https://youtu.be/FIpdoaEOKW4)
    ```
 3. Run the script:
    ```sh
-   python contur_zero_.py
+   python main.py
    ```
 
 ## License
